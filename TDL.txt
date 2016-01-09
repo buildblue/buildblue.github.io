@@ -1,0 +1,16 @@
+Our Team -> About Us Page
+	- Put in associate images
+	- Opportunities to join our team
+
+What we Deliver 
+	 - Change content of header text
+
+
+
+Events
+	- Change hover colour
+	- Crop boothing + SCWALKS image
+	- Create events.html page, scrollable through var. events
+
+Contact
+	- Clickable social media icons, redirect to page
